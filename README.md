@@ -8,7 +8,7 @@ Projeto web de um template de portfólio pessoa desenvolvido como parte do curso
 
 ## 🖥️ Visualize o projeto
 
-[url-do-projeto](url-do-projeto)
+[https://luhring-julian.github.io/html-portfolio-template-web/](https://luhring-julian.github.io/html-portfolio-template-web/)
 
 ## ️⚙️ Tecnologias Usadas
 
